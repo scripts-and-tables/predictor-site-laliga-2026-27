@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laliga-2026-27.devapp24.com/sitemap.xml
