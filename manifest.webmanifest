@@ -1,0 +1,35 @@
+{
+  "name": "La Liga 2026/27 correct-score predictions",
+  "short_name": "LL 26/27",
+  "description": "Expected-value correct-score predictions for every La Liga 2026/27 match, derived from de-vigged bookmaker prices. Pick, expected points and the full scoreline grid, updated hourly.",
+  "id": "/",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F4F0",
+  "theme_color": "#FF4B44",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
